@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/checkpoint-jsx/static/css/main.9da5e73c.chunk.css",
+    "main.js": "/checkpoint-jsx/static/js/main.e1ff6587.chunk.js",
+    "main.js.map": "/checkpoint-jsx/static/js/main.e1ff6587.chunk.js.map",
+    "runtime-main.js": "/checkpoint-jsx/static/js/runtime-main.e79cd693.js",
+    "runtime-main.js.map": "/checkpoint-jsx/static/js/runtime-main.e79cd693.js.map",
+    "static/js/2.6a30f4bb.chunk.js": "/checkpoint-jsx/static/js/2.6a30f4bb.chunk.js",
+    "static/js/2.6a30f4bb.chunk.js.map": "/checkpoint-jsx/static/js/2.6a30f4bb.chunk.js.map",
+    "index.html": "/checkpoint-jsx/index.html",
+    "precache-manifest.bcf2b7302d6f76908d15a5b639eb34fc.js": "/checkpoint-jsx/precache-manifest.bcf2b7302d6f76908d15a5b639eb34fc.js",
+    "service-worker.js": "/checkpoint-jsx/service-worker.js",
+    "static/css/main.9da5e73c.chunk.css.map": "/checkpoint-jsx/static/css/main.9da5e73c.chunk.css.map",
+    "static/js/2.6a30f4bb.chunk.js.LICENSE.txt": "/checkpoint-jsx/static/js/2.6a30f4bb.chunk.js.LICENSE.txt",
+    "static/media/img.png": "/checkpoint-jsx/static/media/img.95797883.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e79cd693.js",
+    "static/js/2.6a30f4bb.chunk.js",
+    "static/css/main.9da5e73c.chunk.css",
+    "static/js/main.e1ff6587.chunk.js"
+  ]
+}

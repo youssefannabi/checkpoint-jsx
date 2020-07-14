@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.more{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.title-red{
+  text-align: center;
+  border:   10px;
+}
+.vid{
+  margin-left: 550px;
+  margin-top: 20px;
+}
+img{
+  margin-top: 48px;
+  width: fit-content;
+  margin-left: 550px;
+
+}
